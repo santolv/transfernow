@@ -1,6 +1,6 @@
 # Transfer privado – blitz.cloud
 
-Aplicación Python: sube varios archivos desde una página web con contraseña de administrador, crea enlaces de descarga aleatorios y elimina cada archivo tras 7 días.
+Aplicación Python: sube varios archivos desde una página web con contraseña de administrador, crea enlaces de descarga aleatorios y elimina cada archivo tras 7 días.-
 
 ## Publicar en blitz.cloud
 
