@@ -118,7 +118,6 @@ def health():
 
 @app.errorhandler(401)
 @app.errorhandler(413)
-@app.errorhandler(507)
 def error(e):
     return jsonify(error=e.description), e.code
 
